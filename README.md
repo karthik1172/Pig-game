@@ -14,6 +14,10 @@ your score safe.
 
 The first player who cross 100 points wins the game.
 
+Flow chart of the game
+
+![pig-game-flowchart](https://user-images.githubusercontent.com/70255695/209924049-d9da64b0-7edc-421a-b5a5-660c446c6586.png)
+
 
 
 https://user-images.githubusercontent.com/70255695/208304932-058d72ea-87d7-4eba-9074-3b38ce0d05e6.mp4
