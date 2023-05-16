@@ -1,7 +1,10 @@
 # Pig-game
+
+# [ClickHere](https://karthik1172.github.io/Pig-game/) for demo
+
 Implemented and Designed this interesting and beautiful game using the help of HTML CSS and DOM manipulation using Javascript.
 
-Rules of the game
+# Rules of the game
 The game is of 2 player.
 
 Player 1 gets the first chance to roll the dice.
